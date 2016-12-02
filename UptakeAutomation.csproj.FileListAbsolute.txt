@@ -1,0 +1,12 @@
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\UptakeAutomation.dll
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\UptakeAutomation.pdb
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\nunit.framework.dll
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\WebDriver.dll
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\nunit.framework.xml
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\WebDriver.xml
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\obj\Debug\UptakeAutomation.dll
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\obj\Debug\UptakeAutomation.pdb
+C:\Users\rescamilla\Documents\Visual Studio 2015\UptakeAutomation\UptakeAutomation\obj\Debug\UptakeAutomation.csprojResolveAssemblyReference.cache
